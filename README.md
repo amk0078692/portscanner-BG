@@ -7,7 +7,7 @@ git clone https://github.com/amk0078692/portscanner-bg
 
 
 
-cd portscanner-BG
+cd portscanner-bg
 
 
 
