@@ -5,5 +5,7 @@ To run use this commands -
 
 git clone https://github.com/amk0078692/portscanner-BG   
 cd portscanner-BG
-ls
+
+
+
 python3 portscanner.py
